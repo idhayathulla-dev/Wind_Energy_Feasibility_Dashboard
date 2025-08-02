@@ -23,7 +23,7 @@ This project explores wind speed data to understand if a location is suitable fo
 If you want to try this project:
 
 1. Clone the repository or download the ZIP
-2. Make sure you have Python 3.10 installed
+2. Make sure you have Python 3.12 installed
 3. Install the required packages using pip:
    ```bash
    pip install -r requirements.txt
