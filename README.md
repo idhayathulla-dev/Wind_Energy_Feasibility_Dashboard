@@ -11,7 +11,7 @@ This project explores wind speed data to understand if a location is suitable fo
 
 ## Tools & Libraries Used
 
-- Python 3.10  
+- Python 3.12
 - Pandas  
 - Matplotlib  
 - Seaborn  
